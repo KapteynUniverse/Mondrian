@@ -1,3 +1,9 @@
 # Mondrian
 
-Tutorial project was done 100% by me, except I couldn't manage to change only the background color (which is silly i know).
+Live Demo
+You can view the live version of this project [here](https://kapteynuniverse.github.io/Mondrian)
+
+![Screenshot of the project](./screenshot.png)
+
+Project Acknowledgment
+This project was developed as part of the The Complete 2024 Web Development Bootcamp course taught by Angela Yu.
